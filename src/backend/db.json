@@ -1,0 +1,95 @@
+{
+  "users": [
+    {
+      "name": "Aman Singh",
+      "company": "Ubona",
+      "salary": "12345",
+      "id": 1
+    },
+    {
+      "name": "Raj",
+      "salary": "5000",
+      "company": "Mahindra",
+      "id": 2
+    },
+    {
+      "name": "Naveen Kumar",
+      "salary": "70000",
+      "company": "Mohali",
+      "id": 4
+    },
+    {
+      "name": "Nidhi Nigam",
+      "salary": "67000",
+      "company": "Oracle",
+      "id": 5
+    },
+    {
+      "name": "Parbhas Mandal",
+      "salary": "25000",
+      "company": "Private",
+      "id": 6
+    },
+    {
+      "name": "Arun",
+      "salary": "41000",
+      "company": "Delhi",
+      "id": 9
+    },
+    {
+      "name": "Sumit Poddar",
+      "salary": "32200",
+      "company": "NCIDR",
+      "id": 11
+    },
+    {
+      "name": "Deepak",
+      "salary": "10000",
+      "company": "Dtex Private Lmt",
+      "id": 12
+    },
+    {
+      "name": "Himanshu Kumar",
+      "salary": "50000",
+      "company": "TCS",
+      "id": 15
+    }
+  ],
+  "login": [
+    {
+      "name": "Aman",
+      "email": "amankukku1998@gmail.com",
+      "password": "12345",
+      "mob": "7061582501",
+      "id": 1
+    },
+    {
+      "name": "Raj",
+      "email": "aman@gmail.com",
+      "password": "123456",
+      "mob": "8051981915",
+      "id": 2
+    },
+    {
+      "name": "aadarsh",
+      "email": "aadarsh@gmail.com",
+      "password": "12345",
+      "mob": "7004530237",
+      "id": 4
+    },
+    {
+      "name": "varsha",
+      "email": "varsha@gmail.com",
+      "password": "12345",
+      "mob": "8051981915",
+      "id": 5
+    },
+    {
+      "name": "Aman",
+      "email": "abc@12gmail.com",
+      "password": "654321",
+      "mob": "654321",
+      "id": 6
+    }
+  ]
+}

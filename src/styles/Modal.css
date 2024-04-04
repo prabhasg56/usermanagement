@@ -1,0 +1,13 @@
+#modal-title{
+    background-color: rgb(43, 43, 253);
+    color:white;
+}
+#modal-title h4{
+    width: 35vw;
+    text-align: center;
+    font-family: Roboto,sans-serif;
+}
+#modal-body h6{
+    text-align: center;
+    font-family: Roboto,sans-serif;
+}

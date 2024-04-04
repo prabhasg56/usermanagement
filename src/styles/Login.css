@@ -1,0 +1,63 @@
+.login-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top:5%;
+    font-family: Robot,sans-serif;
+}
+.input-part{
+    display: flex;
+    flex-direction: column;
+    gap:15px;
+    margin-top: 20px;
+}
+.input-part input{
+    padding: 10px 8px;
+    width:240px;
+    font-family: Robot,sans-serif;
+    font-size: 16px;
+    border-radius: 50px;
+    border:1px solid green;
+}
+.input-part button{
+    padding: 5px 20px;
+    font-family: Robot,sans-serif;
+    font-size: 17px;
+    letter-spacing: 0.098em;
+    border-radius: 7px;
+    border:1px solid green;
+    background-color:rgb(41, 41, 255);
+    color:white;
+    cursor: pointer;
+}
+.signup-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap:15px;
+    margin-top: 40px;
+    font-family: Roboto,sans-serif;
+}
+.signup-container input{
+    padding: 10px 8px;
+    width:240px;
+    font-family: Robot,sans-serif;
+    font-size: 16px;
+    border-radius: 50px;
+    border:1px solid green;
+}
+.signup-container button{
+    padding: 5px 40px;
+    font-family: Robot,sans-serif;
+    font-size: 17px;
+    letter-spacing: 0.098em;
+    border-radius: 7px;
+    border:1px solid green;
+    background-color:rgb(41, 41, 255);
+    color:white;
+    cursor: pointer;
+    margin-top: 5px;
+}
+.signup-container h5{
+    font-size: 24px;
+}

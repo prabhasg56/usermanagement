@@ -1,0 +1,15 @@
+.nav-menu{
+    color: white;
+    text-decoration: none;
+}
+.nav-menu:hover{
+    color:red;
+}
+.logout{
+    text-decoration: none;
+    color:black;
+}
+.active{
+    color:black;
+    font-weight: 600;
+}
